@@ -1,0 +1,1 @@
+alert("Ceci n'est pas un vrai site, mais sert de publicite pour ce qui veulent des sites peuvent me contacter avec ces contacts qui se trouve sur cette page suivante")

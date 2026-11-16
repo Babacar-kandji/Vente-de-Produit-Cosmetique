@@ -1,0 +1,32 @@
+.titre{
+    font-size: 50px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 4px 4px 5px black;
+    text-overflow: clip;
+}
+p{
+    font-size: 20px;
+}
+
+img{
+        width: 400px;
+    
+}
+
+.cont{
+    background-color: black;
+    color: aliceblue;
+    position: relative;
+}
+
+body{
+    padding: 60px;
+    border: 5px dotted rgb(29, 27, 27);
+}
+
+#bab{
+    text-align: center;
+    text-transform: uppercase;
+}
