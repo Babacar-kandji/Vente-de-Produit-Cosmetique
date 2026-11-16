@@ -1,5 +1,5 @@
 .titre{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bolder;
     text-transform: capitalize;
     text-align: center;
@@ -11,7 +11,7 @@ p{
 }
 
 img{
-        width: 400px;
+        width: 200px;
     
 }
 
@@ -23,7 +23,7 @@ img{
 
 body{
     padding: 60px;
-    border: 5px dotted rgb(29, 27, 27);
+    border: 1px dotted rgb(29, 27, 27);
 }
 
 #bab{
