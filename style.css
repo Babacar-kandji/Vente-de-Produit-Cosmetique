@@ -22,10 +22,21 @@ img{
 }
 
 body{
-    padding: 60px;
+    padding: 16px;
+    margin: 0px;
+}
+
+.conteneur{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
 }
 
 #bab{
     text-align: center;
     text-transform: uppercase;
+}
+
+h1{
+    font-size: clamp(1.8rem, 6vw, 3rem);
 }
